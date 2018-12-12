@@ -1,0 +1,33 @@
+{
+  "name": "planetsim",
+  "version": "1.0.0",
+  "description": "A simple 2D planetary motion simulator",
+  "main": "index.html",
+  "scripts": {
+    "test": "ts-node node_modules/jasmine/bin/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koreanwglasses/planetsim.git"
+  },
+  "author": "Fred Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koreanwglasses/planetsim/issues"
+  },
+  "homepage": "https://github.com/koreanwglasses/planetsim#readme",
+  "devDependencies": {
+    "@types/jasmine": "^3.3.1",
+    "@types/react": "^16.7.14",
+    "@types/react-dom": "^16.0.11",
+    "@types/three": "^0.93.12",
+    "awesome-typescript-loader": "^5.2.1",
+    "jasmine": "^3.3.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "source-map-loader": "^0.2.4",
+    "three": "^0.99.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}
